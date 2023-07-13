@@ -8,6 +8,10 @@ function App() {
       <main>
         <Meals />
       </main>
+      <script
+        src="//code.tidio.co/4jffgtjik1wc6evdhqba0kyzqplxr5jc.js"
+        async
+      ></script>
     </Fragment>
   );
 }
